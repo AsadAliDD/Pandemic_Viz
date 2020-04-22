@@ -9,7 +9,7 @@ from pprint import pprint
 from dash.dependencies import Input, Output
 
 
-pandemics={'Ebola': 'ebola'}
+pandemics={'Ebola': 'ebola','Mers':'mers'}
 
 
 
@@ -29,3 +29,8 @@ app.layout = html.Div(
                  )
     ]
 )
+
+
+
+if __name__ == '__main__':
+    app.run_server(debug=True)
