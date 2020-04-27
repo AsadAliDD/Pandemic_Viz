@@ -41,14 +41,14 @@ Ethiopia,3,0,7/6/2009 9:00
 Fiji,2,0,7/6/2009 9:00
 Finland,47,0,7/6/2009 9:00
 France,310,0,7/6/2009 9:00
-"     French Polynesia, FOC",4,0,7/6/2009 9:00
-"     Guadaloupe, FOC",2,0,7/6/2009 9:00
-"     Martinique, FOC",3,0,7/6/2009 9:00
-"     New Caledonia, FOC",12,0,7/6/2009 9:00
-"     Saint Martin, FOC",1,0,7/6/2009 9:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½French Polynesia, FOC",4,0,7/6/2009 9:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½Guadaloupe, FOC",2,0,7/6/2009 9:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½Martinique, FOC",3,0,7/6/2009 9:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½New Caledonia, FOC",12,0,7/6/2009 9:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½Saint Martin, FOC",1,0,7/6/2009 9:00
 Germany,505,0,7/6/2009 9:00
 Greece,151,0,7/6/2009 9:00
-Guatemala ,286,2,7/6/2009 9:00
+Guatemalaï¿½,286,2,7/6/2009 9:00
 Guyana,2,0,7/6/2009 9:00
 Honduras,123,1,7/6/2009 9:00
 Hungary,11,0,7/6/2009 9:00
@@ -81,9 +81,9 @@ Morocco,17,0,7/6/2009 9:00
 Myanmar,1,0,7/6/2009 9:00
 Nepal,5,0,7/6/2009 9:00
 Netherlands,135,0,7/6/2009 9:00
-"     Netherlands, Aruba",5,0,7/6/2009 9:00
-"     Netherlands Antilles, Curaçao",8,0,7/6/2009 9:00
-"     Netherlands Antilles, Sint Maarten",7,0,7/6/2009 9:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½Netherlands, Aruba",5,0,7/6/2009 9:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½Netherlands Antilles, Curaï¿½ao",8,0,7/6/2009 9:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½Netherlands Antilles, Sint Maarten",7,0,7/6/2009 9:00
 New Zealand,1059,3,7/6/2009 9:00
 Nicaragua,321,0,7/6/2009 9:00
 Norway,41,0,7/6/2009 9:00
@@ -122,12 +122,12 @@ Uganda,1,0,7/6/2009 9:00
 Ukraine,1,0,7/6/2009 9:00
 United Arab Emirates,8,0,7/6/2009 9:00
 United Kingdom,7447,3,7/6/2009 9:00
-"     Guernsey, Crown Dependency",5,0,7/6/2009 9:00
-"     Isle of Man, Crown Dependency",1,0,7/6/2009 9:00
-"     Jersey, Crown Dependency",11,0,7/6/2009 9:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½Guernsey, Crown Dependency",5,0,7/6/2009 9:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½Isle of Man, Crown Dependency",1,0,7/6/2009 9:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½Jersey, Crown Dependency",11,0,7/6/2009 9:00
 United States of America,33902,170,7/6/2009 9:00
-     Puerto Rico,18,0,7/6/2009 9:00
-     Virgin Islands,1,0,7/6/2009 9:00
+ï¿½ï¿½ï¿½ï¿½ï¿½Puerto Rico,18,0,7/6/2009 9:00
+ï¿½ï¿½ï¿½ï¿½ï¿½Virgin Islands,1,0,7/6/2009 9:00
 Uruguay,195,4,7/6/2009 9:00
 Vanuatu,2,0,7/6/2009 9:00
 Venezuela,206,0,7/6/2009 9:00
@@ -175,12 +175,12 @@ Ethiopia,3,0,7/3/2009 9:00
 Fiji,2,0,7/3/2009 9:00
 Finland,43,0,7/3/2009 9:00
 France,300,0,7/3/2009 9:00
-"    French Polynesia, FOC",2,0,7/3/2009 9:00
-"    Martinique, FOC",2,0,7/3/2009 9:00
-"    France, New Caledonia, FOC",6,0,7/3/2009 9:00
+"ï¿½ï¿½ï¿½ï¿½French Polynesia, FOC",2,0,7/3/2009 9:00
+"ï¿½ï¿½ï¿½ï¿½Martinique, FOC",2,0,7/3/2009 9:00
+"ï¿½ï¿½ï¿½ï¿½France, New Caledonia, FOC",6,0,7/3/2009 9:00
 Germany,470,0,7/3/2009 9:00
 Greece,109,0,7/3/2009 9:00
-Guatemala ,254,2,7/3/2009 9:00
+Guatemalaï¿½,254,2,7/3/2009 9:00
 Honduras,123,1,7/3/2009 9:00
 Hungary,11,0,7/3/2009 9:00
 Iceland,4,0,7/3/2009 9:00
@@ -211,9 +211,9 @@ Morocco,17,0,7/3/2009 9:00
 Myanmar,1,0,7/3/2009 9:00
 Nepal,5,0,7/3/2009 9:00
 Netherlands,134,0,7/3/2009 9:00
-"     Netherlands, Aruba",5,0,7/3/2009 9:00
-"     Netherlands Antilles, Curaçao",8,0,7/3/2009 9:00
-"     Netherlands Antilles, Sint Maarten",7,0,7/3/2009 9:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½Netherlands, Aruba",5,0,7/3/2009 9:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½Netherlands Antilles, Curaï¿½ao",8,0,7/3/2009 9:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½Netherlands Antilles, Sint Maarten",7,0,7/3/2009 9:00
 New Zealand,912,0,7/3/2009 9:00
 Nicaragua,308,0,7/3/2009 9:00
 Norway,41,0,7/3/2009 9:00
@@ -250,9 +250,9 @@ Uganda,1,0,7/3/2009 9:00
 Ukraine,1,0,7/3/2009 9:00
 United Arab Emirates,8,0,7/3/2009 9:00
 United Kingdom,7447,3,7/3/2009 9:00
-"     Guernsey, Crown Dependency",5,0,7/3/2009 9:00
-"     Isle of Man, Crown Dependency",1,0,7/3/2009 9:00
-"     Jersey, Crown Dependency",11,0,7/3/2009 9:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½Guernsey, Crown Dependency",5,0,7/3/2009 9:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½Isle of Man, Crown Dependency",1,0,7/3/2009 9:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½Jersey, Crown Dependency",11,0,7/3/2009 9:00
 United States of America,33902,170,7/3/2009 9:00
 Uruguay,195,1,7/3/2009 9:00
 Vanuatu,2,0,7/3/2009 9:00
@@ -300,12 +300,12 @@ Ethiopia,2,0,7/1/2009 9:00
 Fiji,2,0,7/1/2009 9:00
 Finland,26,0,7/1/2009 9:00
 France,277,0,7/1/2009 9:00
-"    French Polynesia, FOC",2,0,7/1/2009 9:00
-"    Martinique, FOC",2,0,7/1/2009 9:00
-"    France, New Caledonia, FOC",6,0,7/1/2009 9:00
+"ï¿½ï¿½ï¿½ï¿½French Polynesia, FOC",2,0,7/1/2009 9:00
+"ï¿½ï¿½ï¿½ï¿½Martinique, FOC",2,0,7/1/2009 9:00
+"ï¿½ï¿½ï¿½ï¿½France, New Caledonia, FOC",6,0,7/1/2009 9:00
 Germany,417,0,7/1/2009 9:00
 Greece,92,0,7/1/2009 9:00
-Guatemala ,254,2,7/1/2009 9:00
+Guatemalaï¿½,254,2,7/1/2009 9:00
 Honduras,118,1,7/1/2009 9:00
 Hungary,10,0,7/1/2009 9:00
 Iceland,4,0,7/1/2009 9:00
@@ -335,8 +335,8 @@ Morocco,17,0,7/1/2009 9:00
 Myanmar,1,0,7/1/2009 9:00
 Nepal,3,0,7/1/2009 9:00
 Netherlands,128,0,7/1/2009 9:00
-"     Netherlands Antilles, Curaçao",7,0,7/1/2009 9:00
-"     Netherlands Antilles, Sint Maarten",7,0,7/1/2009 9:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½Netherlands Antilles, Curaï¿½ao",7,0,7/1/2009 9:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½Netherlands Antilles, Sint Maarten",7,0,7/1/2009 9:00
 New Zealand,711,0,7/1/2009 9:00
 Nicaragua,293,0,7/1/2009 9:00
 Norway,32,0,7/1/2009 9:00
@@ -371,9 +371,9 @@ Turkey,32,0,7/1/2009 9:00
 Ukraine,1,0,7/1/2009 9:00
 United Arab Emirates,8,0,7/1/2009 9:00
 United Kingdom,6538,3,7/1/2009 9:00
-"     Guernsey, Crown Dependency",5,0,7/1/2009 9:00
-"     Isle of Man, Crown Dependency",1,0,7/1/2009 9:00
-"     Jersey, Crown Dependency",8,0,7/1/2009 9:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½Guernsey, Crown Dependency",5,0,7/1/2009 9:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½Isle of Man, Crown Dependency",1,0,7/1/2009 9:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½Jersey, Crown Dependency",8,0,7/1/2009 9:00
 United States of America,27717,127,7/1/2009 9:00
 Uruguay,195,1,7/1/2009 9:00
 Vanuatu,2,0,7/1/2009 9:00
@@ -421,11 +421,11 @@ Ethiopia,2,0,6/29/2009 9:00
 Fiji,2,0,6/29/2009 9:00
 Finland,26,0,6/29/2009 9:00
 France,235,0,6/29/2009 9:00
-"    French Polynesia, FOC",3,0,6/29/2009 9:00
-"    Martinique, FOC",2,0,6/29/2009 9:00
+"ï¿½ï¿½ï¿½ï¿½French Polynesia, FOC",3,0,6/29/2009 9:00
+"ï¿½ï¿½ï¿½ï¿½Martinique, FOC",2,0,6/29/2009 9:00
 Germany,366,0,6/29/2009 9:00
 Greece,86,0,6/29/2009 9:00
-Guatemala ,254,2,6/29/2009 9:00
+Guatemalaï¿½,254,2,6/29/2009 9:00
 Honduras,118,1,6/29/2009 9:00
 Hungary,8,0,6/29/2009 9:00
 Iceland,4,0,6/29/2009 9:00
@@ -453,8 +453,8 @@ Montenegro,1,0,6/29/2009 9:00
 Morocco,11,0,6/29/2009 9:00
 Nepal,3,0,6/29/2009 9:00
 Netherlands,118,0,6/29/2009 9:00
-"     Netherlands Antilles, Curaçao *",3,0,6/29/2009 9:00
-"     Netherlands Antilles, Sint Maarten",1,0,6/29/2009 9:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½Netherlands Antilles, Curaï¿½ao *",3,0,6/29/2009 9:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½Netherlands Antilles, Sint Maarten",1,0,6/29/2009 9:00
 New Zealand,587,0,6/29/2009 9:00
 Nicaragua,277,0,6/29/2009 9:00
 Norway,31,0,6/29/2009 9:00
@@ -488,9 +488,9 @@ Turkey,27,0,6/29/2009 9:00
 Ukraine,1,0,6/29/2009 9:00
 United Arab Emirates,8,0,6/29/2009 9:00
 United Kingdom,4250,1,6/29/2009 9:00
-"     Guernsey, Crown Dependency",1,0,6/29/2009 9:00
-"     Isle of Man, Crown Dependency",1,0,6/29/2009 9:00
-"     Jersey, Crown Dependency",8,0,6/29/2009 9:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½Guernsey, Crown Dependency",1,0,6/29/2009 9:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½Isle of Man, Crown Dependency",1,0,6/29/2009 9:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½Jersey, Crown Dependency",8,0,6/29/2009 9:00
 United States of America,27717,127,6/29/2009 9:00
 Uruguay,195,0,6/29/2009 9:00
 Vanuatu,2,0,6/29/2009 9:00
@@ -537,11 +537,11 @@ Ethiopia,2,0,6/26/2009 7:00
 Fiji,2,0,6/26/2009 7:00
 Finland,26,0,6/26/2009 7:00
 France,191,0,6/26/2009 7:00
-"    French Polynesia, FOC",1,0,6/26/2009 7:00
-"    Martinique, FOC",2,0,6/26/2009 7:00
+"ï¿½ï¿½ï¿½ï¿½French Polynesia, FOC",1,0,6/26/2009 7:00
+"ï¿½ï¿½ï¿½ï¿½Martinique, FOC",2,0,6/26/2009 7:00
 Germany,333,0,6/26/2009 7:00
 Greece,73,0,6/26/2009 7:00
-Guatemala ,254,2,6/26/2009 7:00
+Guatemalaï¿½,254,2,6/26/2009 7:00
 Honduras,118,1,6/26/2009 7:00
 Hungary,8,0,6/26/2009 7:00
 Iceland,4,0,6/26/2009 7:00
@@ -565,8 +565,8 @@ Mexico,8279,116,6/26/2009 7:00
 Montenegro,1,0,6/26/2009 7:00
 Morocco,11,0,6/26/2009 7:00
 Netherlands,116,0,6/26/2009 7:00
-"     Netherlands Antilles, Curaçao *",3,0,6/26/2009 7:00
-"     Netherlands Antilles, Sint Maarten",1,0,6/26/2009 7:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½Netherlands Antilles, Curaï¿½ao *",3,0,6/26/2009 7:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½Netherlands Antilles, Sint Maarten",1,0,6/26/2009 7:00
 New Zealand,453,0,6/26/2009 7:00
 Nicaragua,265,0,6/26/2009 7:00
 Norway,22,0,6/26/2009 7:00
@@ -600,9 +600,9 @@ Turkey,26,0,6/26/2009 7:00
 Ukraine,1,0,6/26/2009 7:00
 United Arab Emirates,7,0,6/26/2009 7:00
 United Kingdom,3597,1,6/26/2009 7:00
-"     Guernsey, Crown Dependency",1,0,6/26/2009 7:00
-"     Isle of Man, Crown Dependency",1,0,6/26/2009 7:00
-"     Jersey, Crown Dependency",8,0,6/26/2009 7:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½Guernsey, Crown Dependency",1,0,6/26/2009 7:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½Isle of Man, Crown Dependency",1,0,6/26/2009 7:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½Jersey, Crown Dependency",8,0,6/26/2009 7:00
 United States of America,21449,87,6/26/2009 7:00
 Uruguay,195,0,6/26/2009 7:00
 Vanuatu,2,0,6/26/2009 7:00
@@ -650,11 +650,11 @@ Ethiopia,2,0,6/24/2009 7:00
 Fiji,2,0,6/24/2009 7:00
 Finland,26,0,6/24/2009 7:00
 France,171,0,6/24/2009 7:00
-"    French Polynesia, FOC",1,0,6/24/2009 7:00
-"    Martinique, FOC",2,0,6/24/2009 7:00
+"ï¿½ï¿½ï¿½ï¿½French Polynesia, FOC",1,0,6/24/2009 7:00
+"ï¿½ï¿½ï¿½ï¿½Martinique, FOC",2,0,6/24/2009 7:00
 Germany,301,0,6/24/2009 7:00
 Greece,58,0,6/24/2009 7:00
-Guatemala ,235,1,6/24/2009 7:00
+Guatemalaï¿½,235,1,6/24/2009 7:00
 Honduras,118,0,6/24/2009 7:00
 Hungary,7,0,6/24/2009 7:00
 Iceland,4,0,6/24/2009 7:00
@@ -676,8 +676,8 @@ Mexico,7847,115,6/24/2009 7:00
 Montenegro,1,0,6/24/2009 7:00
 Morocco,9,0,6/24/2009 7:00
 Netherlands,110,0,6/24/2009 7:00
-"     Netherlands Antilles, Curaçao *",3,0,6/24/2009 7:00
-"     Netherlands Antilles, Sint Maarten",1,0,6/24/2009 7:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½Netherlands Antilles, Curaï¿½ao *",3,0,6/24/2009 7:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½Netherlands Antilles, Sint Maarten",1,0,6/24/2009 7:00
 New Zealand,386,0,6/24/2009 7:00
 Nicaragua,220,0,6/24/2009 7:00
 Norway,22,0,6/24/2009 7:00
@@ -710,8 +710,8 @@ Turkey,26,0,6/24/2009 7:00
 Ukraine,1,0,6/24/2009 7:00
 United Arab Emirates,2,0,6/24/2009 7:00
 United Kingdom,2905,1,6/24/2009 7:00
-"     Isle of Man, Crown Dependency",1,0,6/24/2009 7:00
-"     Jersey, Crown Dependency",3,0,6/24/2009 7:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½Isle of Man, Crown Dependency",1,0,6/24/2009 7:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½Jersey, Crown Dependency",3,0,6/24/2009 7:00
 United States of America,21449,87,6/24/2009 7:00
 Uruguay,195,0,6/24/2009 7:00
 Vanuatu,1,,6/24/2009 7:00
@@ -754,11 +754,11 @@ Estonia,5,0,6/22/2009 7:00
 Fiji,1,0,6/22/2009 7:00
 Finland,13,0,6/22/2009 7:00
 France,147,0,6/22/2009 7:00
-"    French Polynesia, FOC",1,0,6/22/2009 7:00
-"    Martinique, FOC",1,0,6/22/2009 7:00
+"ï¿½ï¿½ï¿½ï¿½French Polynesia, FOC",1,0,6/22/2009 7:00
+"ï¿½ï¿½ï¿½ï¿½Martinique, FOC",1,0,6/22/2009 7:00
 Germany,275,0,6/22/2009 7:00
 Greece,48,0,6/22/2009 7:00
-Guatemala ,208,1,6/22/2009 7:00
+Guatemalaï¿½,208,1,6/22/2009 7:00
 Honduras,108,0,6/22/2009 7:00
 Hungary,7,0,6/22/2009 7:00
 Iceland,4,0,6/22/2009 7:00
@@ -778,8 +778,8 @@ Malaysia,23,0,6/22/2009 7:00
 Mexico,7624,113,6/22/2009 7:00
 Morocco *,6,0,6/22/2009 7:00
 Netherlands,91,0,6/22/2009 7:00
-"     Netherlands Antilles, Curaçao **",3,0,6/22/2009 7:00
-"     Netherlands Antilles, Sint Maarten",1,0,6/22/2009 7:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½Netherlands Antilles, Curaï¿½ao **",3,0,6/22/2009 7:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½Netherlands Antilles, Sint Maarten",1,0,6/22/2009 7:00
 New Zealand,258,0,6/22/2009 7:00
 Nicaragua,189,0,6/22/2009 7:00
 Norway,17,0,6/22/2009 7:00
@@ -811,8 +811,8 @@ Turkey,20,0,6/22/2009 7:00
 Ukraine,1,0,6/22/2009 7:00
 United Arab Emirates,2,0,6/22/2009 7:00
 United Kingdom,2506,1,6/22/2009 7:00
-"     Isle of Man, Crown Dependency",1,0,6/22/2009 7:00
-"     Jersey, Crown Dependency",1,0,6/22/2009 7:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½Isle of Man, Crown Dependency",1,0,6/22/2009 7:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½Jersey, Crown Dependency",1,0,6/22/2009 7:00
 United States of America,21449,87,6/22/2009 7:00
 Uruguay,36,0,6/22/2009 7:00
 Venezuela,71,0,6/22/2009 7:00
@@ -850,11 +850,11 @@ El Salvador,160,0,6/19/2009 7:00
 Estonia,5,0,6/19/2009 7:00
 Finland,13,0,6/19/2009 7:00
 France,131,0,6/19/2009 7:00
-"    French Polynesia, FOC",1,0,6/19/2009 7:00
-"    Martinique, FOC",1,0,6/19/2009 7:00
+"ï¿½ï¿½ï¿½ï¿½French Polynesia, FOC",1,0,6/19/2009 7:00
+"ï¿½ï¿½ï¿½ï¿½Martinique, FOC",1,0,6/19/2009 7:00
 Germany,238,0,6/19/2009 7:00
 Greece,31,0,6/19/2009 7:00
-Guatemala ,153,1,6/19/2009 7:00
+Guatemalaï¿½,153,1,6/19/2009 7:00
 Honduras,108,0,6/19/2009 7:00
 Hungary,7,0,6/19/2009 7:00
 Iceland,4,0,6/19/2009 7:00
@@ -874,8 +874,8 @@ Malaysia,23,0,6/19/2009 7:00
 Mexico,7624,113,6/19/2009 7:00
 Morocco,8,0,6/19/2009 7:00
 Netherlands,87,0,6/19/2009 7:00
-"     Netherlands Antilles, Curaçao *",3,0,6/19/2009 7:00
-"     Netherlands Antilles, Sint Maarten",1,0,6/19/2009 7:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½Netherlands Antilles, Curaï¿½ao *",3,0,6/19/2009 7:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½Netherlands Antilles, Sint Maarten",1,0,6/19/2009 7:00
 New Zealand,216,0,6/19/2009 7:00
 Nicaragua,144,0,6/19/2009 7:00
 Norway,17,0,6/19/2009 7:00
@@ -906,8 +906,8 @@ Turkey,20,0,6/19/2009 7:00
 Ukraine,1,0,6/19/2009 7:00
 United Arab Emirates,2,0,6/19/2009 7:00
 United Kingdom,1752,1,6/19/2009 7:00
-"     Isle of Man, Crown Dependency",1,0,6/19/2009 7:00
-"     Jersey, Crown Dependency",1,0,6/19/2009 7:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½Isle of Man, Crown Dependency",1,0,6/19/2009 7:00
+"ï¿½ï¿½ï¿½ï¿½ï¿½Jersey, Crown Dependency",1,0,6/19/2009 7:00
 United States of America,17855,44,6/19/2009 7:00
 Uruguay,36,0,6/19/2009 7:00
 Venezuela,60,0,6/19/2009 7:00
@@ -1542,7 +1542,7 @@ Finland,3,0,6/1/2009 6:00
 France,24,0,6/1/2009 6:00
 Germany,28,0,6/1/2009 6:00
 Greece,4,0,6/1/2009 6:00
-Guatemala ,12,0,6/1/2009 6:00
+Guatemalaï¿½,12,0,6/1/2009 6:00
 Honduras,2,0,6/1/2009 6:00
 Hungary,1,0,6/1/2009 6:00
 Iceland,1,0,6/1/2009 6:00
@@ -1653,7 +1653,7 @@ Finland,2,0,5/27/2009 8:00
 France,16,0,5/27/2009 8:00
 Germany,17,0,5/27/2009 8:00
 Greece,1,0,5/27/2009 8:00
-Guatemala ,5,0,5/27/2009 8:00
+Guatemalaï¿½,5,0,5/27/2009 8:00
 Honduras,1,0,5/27/2009 8:00
 Iceland,1,0,5/27/2009 8:00
 India,1,0,5/27/2009 8:00
