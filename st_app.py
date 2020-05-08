@@ -143,10 +143,12 @@ def comparison(ebola,swine_flu,covid,covid_latest):
     #     (swine_flu.Deaths.sum()/total)*100,(covid.Deaths.sum()/total)*100]
     
     mortality_rate = [(i /float(j))*100 for i, j in zip(deaths, cases)]
+    size_mortality=(mortality_rate/sum(mortality_rate))*100
 
 
 
     print (mortality_rate)
+    print (size_mortality)
     # Figure1
     fig=go.Figure()
     fig.add_trace(go.Scatter(y=gb["ConfirmedDeaths"],x=gb["ConfirmedCases"],name="Ebola"))
@@ -200,8 +202,8 @@ def comparison(ebola,swine_flu,covid,covid_latest):
         y=mortality_rate,
         mode='markers',
         marker=dict(
-            size=size_deaths,
-            # color=['rgb(93, 164, 214)', 'rgb(255, 144, 14)',  'rgb(44, 160, 101)', 'rgb(255, 65, 54)', 'rgb(255, 65, 104)']
+            size=size_mortality,
+            color=['rgb(255, 0, 0)', 'rgb(255, 0, 0)',  'rgb(255, 0, 0)', 'rgb(255, 0, 0)', 'rgb(255, 0, 0)']
         )
     ))
     fig3.update_layout(title="Mortality Rate",
