@@ -1,0 +1,4 @@
+streamlit==0.59.0
+pandas==1.0.3
+plotly==4.6.0
+COVID19Py==0.3.0
